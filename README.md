@@ -1,6 +1,6 @@
 # learn-by-building: learn any topic by shipping 5 tiny projects
 
-A Claude Code skill that runs Karpathy's expert method on any topic you name. The whole method is one 86-line markdown file.
+A Claude Code skill that runs Karpathy's expert method on any topic you name. Learn anything in 5 tiny projects, with a teach-back gate between each one. The whole method is one markdown file, readable in one sitting.
 
 ![demo](assets/demo.gif)
 
