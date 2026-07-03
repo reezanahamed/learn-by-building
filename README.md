@@ -10,7 +10,7 @@ AI course generators hand you chapters to read. Reading feels like progress, but
 
 ```bash
 git clone https://github.com/reezanahamed/learn-by-building.git
-cp -r learn-by-building ~/.claude/skills/
+mkdir -p ~/.claude/skills && cp -r learn-by-building ~/.claude/skills/
 claude
 ```
 

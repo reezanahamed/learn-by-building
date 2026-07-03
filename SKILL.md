@@ -48,6 +48,8 @@ Design rules:
 - Non-code topics get non-code artifacts: a calculation notebook, an experiment writeup, a one-page explainer someone else could follow, a spreadsheet model, a scale drawing. "Read chapter 3" is never a project.
 - Project 5 should touch the learner's actual mission, so finishing the ladder means doing a small version of the real thing.
 
+Along with `projects.md`, create `progress.md` with one dated day-one line: where the learner is starting from, in concrete terms taken from the interview (what they cannot do yet). This is the baseline every later "then vs now" note compares against, and it marks the folder as an active ladder so a returning learner is never re-interviewed.
+
 Show the ladder, then start project 1.
 
 ## Build mode
