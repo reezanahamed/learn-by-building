@@ -35,6 +35,10 @@ Then type what you want to learn. Anything works:
 
 The skill is a single SKILL.md. When you say you want to learn something, Claude asks 3 quick questions and writes your goal into `mission.md`. It researches the topic, then designs a ladder of 5 projects into `projects.md`, each with a concrete thing you build and a "done when" test. You do the work; Claude unblocks you when you're stuck. After each project you write a teach-back in your own words, and Claude probes it for gaps before the next project unlocks. Everything lives as markdown files in your folder, so you own all of it and can read it anywhere.
 
+## Prior art
+
+Matt Pocock's [teach skill](https://github.com/mattpocock/skills/blob/main/skills/productivity/teach/SKILL.md) builds you interactive lessons. This skill takes the opposite bet: no lessons, you learn by building, and nothing unlocks until you teach it back.
+
 ## Limitations
 
 - Needs Claude Code (or another agent that reads skill files). No app, no website.
