@@ -1,7 +1,2 @@
-PLAN.md
-POSTS.md
-CLAUDE.md
 .env
 __pycache__/
-.claude/
-docs/
